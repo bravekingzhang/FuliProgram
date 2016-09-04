@@ -2,7 +2,7 @@
 swift学习项目
 
 首先看一个gif动画：
-只管的感受一下，这个项目有哪些东东
+直观的感受一下，这个项目有哪些东东
 
 ![demo](http://upload-images.jianshu.io/upload_images/1019822-63ca090fdb01367c.gif?imageMogr2/auto-orient/strip)
 
