@@ -1,0 +1,6 @@
+framework module Pods_FuliProgram {
+  umbrella header "Pods-FuliProgram-umbrella.h"
+
+  export *
+  module * { export * }
+}
